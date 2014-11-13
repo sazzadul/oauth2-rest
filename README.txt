@@ -7,7 +7,7 @@ POSTMAN:
 1) POST: http://localhost:8006/oauth2-rest/oauth/token
 	(x-www-form-urlencoded)
 	client_id = oauth-rest
-	client_secret = 19Snuse99
+	client_secret = 19*
 	grant_type = client_credentials
 	
 2) Access token returned
